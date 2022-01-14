@@ -1,5 +1,5 @@
 # ksmirnovk
-Implementation of k-sample version Kolmogorov-Smirnov test in Stata. Read more discussion on my blog post: https://gnicholl.github.io/Post/chapter-2/
+Implementation of k-sample version Kolmogorov-Smirnov test in Stata. Read more discussion on my blog post: https://gnicholl.github.io/post/ksmirnovk/
 
 # Required package
 ssc install integrate.pkg
